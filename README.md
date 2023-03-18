@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**priyanka-mehta02/priyanka-mehta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**priyanka-mehta02/priyanka-mehta02** 
 
 Myself:- Priyanka Mehta
 Programming Language that i am familiar with C++,Java and also Web development HTML, XML, CSS, JavaScript.
